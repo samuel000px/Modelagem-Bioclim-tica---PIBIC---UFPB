@@ -1,5 +1,5 @@
 # Projeto: Modelagem Bioclimática do Alto Curso do Rio Paraíba
-# Organização para o repositório (2026): Samuel Almeida Fragoso Vasconcelos
+# Versão: 2026
 
 library(raster)
 library(rgdal)

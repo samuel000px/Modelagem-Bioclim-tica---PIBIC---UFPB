@@ -12,7 +12,7 @@ O fluxo prevê a exportação de mapas em GeoTIFF, da delimitação da área de 
 
 ## Balanço hídrico por local
 
-O projeto também estuda os scripts de balanço hídrico de Thornthwaite e Mather de Mônica Macêdo e Marcilio Lemos. Esses scripts usam arquivos CSV com temperatura, precipitação e características de cada local. A versão climatológica trabalha com 12 valores mensais de referência. A versão sequencial acompanha os meses de uma série de vários anos e usa as temperaturas climatológicas para calcular o índice de calor.
+O projeto também estuda os scripts de balanço hídrico de Thornthwaite e Mather. A versão de 2026 credita Mônica Macêdo e Samuel Almeida Fragoso Vasconcelos. Esses scripts usam arquivos CSV com temperatura, precipitação e características de cada local. A versão climatológica trabalha com 12 valores mensais de referência. A versão sequencial acompanha os meses de uma série de vários anos e usa as temperaturas climatológicas para calcular o índice de calor.
 
 A revisão acompanha o código desde a leitura dos dados até o cálculo e a geração de tabelas e gráficos. Um dos pontos em estudo é o tratamento de séries inteiramente secas ou úmidas, em que o script sequencial pode usar variáveis antes de defini-las.
 

@@ -1,9 +1,7 @@
 # Projeto: Modelagem Bioclimática do Alto Curso do Rio Paraíba
-# Organização para o repositório (2026): Samuel Almeida Fragoso Vasconcelos
+# Versão: 2026
 
 "
-Copyright (c) 2017 Mônica Macêdo, Marcilio Lemos
-
 @title Balanço hídrico de Thornthwaite and Mather
 
 @author Mônica Macêdo and Samuel Almeida Fragoso Vasconcelos
